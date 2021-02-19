@@ -1,4 +1,4 @@
-# mi
+# mymall
 
 ## Project setup
 ```
